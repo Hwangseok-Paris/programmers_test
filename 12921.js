@@ -1,3 +1,4 @@
+// 에라토스테네스의 체 (소수 구하기)
 function solution(n) {
   let arr = Array(n + 1)
     .fill(true)
